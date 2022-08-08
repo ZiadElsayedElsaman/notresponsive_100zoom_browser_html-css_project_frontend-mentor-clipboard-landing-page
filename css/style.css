@@ -1,0 +1,465 @@
+.container{
+    background-color: rgb(215, 215, 215);
+    width: 40%;
+    height: 1660px;
+    margin: 20px 390px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px 5px 0 0;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.svg1{
+    transform: scale(.5);
+    -webkit-transform: scale(.5);
+    -moz-transform: scale(.5);
+    -ms-transform: scale(.5);
+    -o-transform: scale(.5);
+    padding: 0px 200px;
+}
+.h1{
+    font-size: 20px;
+    text-align: center;
+    margin-top: -10px;
+    color: rgb(86, 84, 84);
+    font-weight: bold;
+    font-family: 'Akshar', sans-serif;
+font-family: 'Arima', cursive;
+font-family: 'Edu TAS Beginner', cursive;
+font-family: 'Edu VIC WA NT Beginner', cursive;
+font-family: 'Lobster', cursive;
+font-family: 'Mochiy Pop One', sans-serif;
+font-family: 'Oswald', sans-serif;
+font-family: 'Pragati Narrow', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Source Sans Pro', sans-serif;
+}
+.p1{
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    line-height: 1.5;
+    opacity: .5;
+}
+.d1{
+    width: 150px;
+    height: 30px;
+    background-color: aqua;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    text-align: center;
+    margin-left: 130px;
+    color: white;
+    padding-top: 5px;
+}
+.d1:hover{
+    cursor: pointer;
+    opacity: .5;
+}
+.d2{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(60, 60, 207);
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    text-align: center;
+    margin-left: 290px;
+    margin-top: -35px;
+    color: white;
+    padding-top: 5px;
+}
+.d2:hover{
+    cursor: pointer;
+    opacity: .5;
+}
+.h2{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 30px;
+    color: rgb(86, 84, 84);
+    font-weight: bold;
+    font-family: 'Akshar', sans-serif;
+    font-family: 'Arima', cursive;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pragati Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.p2{
+    text-align: center;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-size: 15px;
+    line-height: 1.5;
+    opacity: .5;
+}
+.im1{
+    transform: scale(.3);
+    -webkit-transform: scale(.3);
+    -moz-transform: scale(.3);
+    -ms-transform: scale(.3);
+    -o-transform: scale(.3);
+    margin-top: -180px;
+    margin-left: -230px;
+}
+.h3{
+    font-size: 20px;
+    text-align: center;
+    margin-top: -390px;
+    margin-left: 130px;
+    color: rgb(86, 84, 84);
+    font-weight: bold;
+    font-family: 'Akshar', sans-serif;
+    font-family: 'Arima', cursive;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pragati Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.p3{
+    text-align: center;
+    font-size: 15px;
+    line-height: 1.5;
+    opacity: .5;
+    padding-left: 265px;
+    margin-top: -10px;
+}
+.h4{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 130px;
+    color: rgb(86, 84, 84);
+    font-weight: bold;
+    font-family: 'Akshar', sans-serif;
+    font-family: 'Arima', cursive;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pragati Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.p4{
+    text-align: center;
+    font-size: 15px;
+    line-height: 1.5;
+    opacity: .5;
+    padding-left: 310px;
+    margin-top: -15px;
+    margin-left: -34px;
+}
+.h5{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0px;
+    margin-left: 180px;
+    color: rgb(86, 84, 84);
+    font-weight: bold;
+    font-family: 'Akshar', sans-serif;
+    font-family: 'Arima', cursive;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pragati Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.p5{
+    text-align: center;
+    font-size: 15px;
+    line-height: 1.5;
+    opacity: .5;
+    padding-left: 340px;
+    margin-top: -25px;
+    margin-left: -71px;
+    padding-right: 20px;
+}
+.h6{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 40px;
+    margin-left: 30px;
+    color: rgb(86, 84, 84);
+    font-weight: bold;
+    font-family: 'Akshar', sans-serif;
+    font-family: 'Arima', cursive;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pragati Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.p6{
+    text-align: center;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-size: 15px;
+    line-height: 1.5;
+    opacity: .5;
+    margin-top: -30px;
+}
+.im2{
+    transform: scale(.4);
+    -webkit-transform: scale(.4);
+    -moz-transform: scale(.4);
+    -ms-transform: scale(.4);
+    -o-transform: scale(.4);
+    margin: -140px -170px;
+}
+.h7{
+    font-size: 20px;
+    text-align: center;
+    margin-top: -20px;
+    margin-left: 30px;
+    color: rgb(86, 84, 84);
+    font-weight: bold;
+    font-family: 'Akshar', sans-serif;
+    font-family: 'Arima', cursive;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pragati Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.p7{
+    text-align: center;
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 15px;
+    line-height: 1.5;
+    opacity: .5;
+    margin-top: -30px;
+    margin-left: 25px;
+}
+.m11 ,.m12 ,.m13{
+    transform: scale(.8);
+    -webkit-transform: scale(.8);
+    -moz-transform: scale(.8);
+    -ms-transform: scale(.8);
+    -o-transform: scale(.8);
+}
+.d11{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.d12{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.h10, .h11, .h12{
+    font-size: 17px;
+    text-align: center;
+    color: rgb(86, 84, 84);
+    font-weight: bold;
+    font-family: 'Akshar', sans-serif;
+    font-family: 'Arima', cursive;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pragati Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+.d13{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.p10, .p11, .p12{
+    text-align: center;
+    line-height: 1.5;
+    opacity: .5;
+}
+.d14{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.m22, .m23, .m24 ,.m25 ,.m26{
+    transform: scale(.4);
+    -webkit-transform: scale(.4);
+    -moz-transform: scale(.4);
+    -ms-transform: scale(.4);
+    -o-transform: scale(.4);
+    margin-right: -35px;
+}
+.m22{
+    margin-left: -40px;
+}
+.h1z{
+    font-size: 20px;
+    text-align: center;
+    margin-top: 20px;
+    color: rgb(86, 84, 84);
+    font-weight: bold;
+    font-family: 'Akshar', sans-serif;
+    font-family: 'Arima', cursive;
+    font-family: 'Edu TAS Beginner', cursive;
+    font-family: 'Edu VIC WA NT Beginner', cursive;
+    font-family: 'Lobster', cursive;
+    font-family: 'Mochiy Pop One', sans-serif;
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Pragati Narrow', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    }
+.p1z{
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 15px;
+    line-height: 1.5;
+    opacity: .5;
+}
+.d1z{
+    width: 150px;
+    height: 30px;
+    background-color: aqua;
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    text-align: center;
+    margin-left: 130px;
+    color: white;
+    padding-top: 5px;
+}
+.d1z:hover{
+    cursor: pointer;
+    opacity: .5;
+}
+.d2z{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(60, 60, 207);
+    border-radius: 15px;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
+    text-align: center;
+    margin-left: 290px;
+    margin-top: -35px;
+    color: white;
+    padding-top: 5px;
+}
+.d2z:hover{
+    cursor: pointer;
+    opacity: .5;
+}
+.dz{
+    background-color: rgb(192, 189, 189);
+    width: 40%;
+    height: 170px;
+    margin: -20px 390px;
+    border-radius: 5px;
+    -webkit-border-radius: 0px 0 5px 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
+.svg11{
+    transform: scale(.3);
+    -webkit-transform: scale(.3);
+    -moz-transform: scale(.3);
+    -ms-transform: scale(.3);
+    -o-transform: scale(.3);
+    margin: -30px -20px;
+}
+.dz p{
+    font-size: 15px;
+    font-weight: bold;
+    opacity: .8;
+}
+.pzz1{
+    position: absolute;
+    top: 1680px ;
+    left: 500px;
+}
+.pzz2{
+    position: absolute;
+    top: 1680px ;
+    left: 570px;
+}
+.pzz3{
+    position: absolute;
+    top: 1680px ;
+    left: 700px;
+}
+.pzz4{
+    position: absolute;
+    top: 1720px ;
+    left: 500px;
+}
+.pzz5{
+    position: absolute;
+    top: 1720px ;
+    left: 600px;
+}
+.dzu{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 40px;
+}
+.pzz1:hover{
+    cursor: pointer;
+    color: aqua;
+}
+.pzz2:hover{
+    cursor: pointer;
+    color: aqua;
+}
+.pzz3:hover{
+    cursor: pointer;
+    color: aqua;
+}
+.pzz4:hover{
+    cursor: pointer;
+    color: aqua;
+}
+.pzz5:hover{
+    cursor: pointer;
+    color: aqua;
+}
